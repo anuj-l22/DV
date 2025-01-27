@@ -1,0 +1,84 @@
+Nationality,Country of Nationality,Number of Arrivals - 2015 ,Number of Arrivals - 2016,Number of Arrivals - 2017,Percentage Share - 2015,Percentage Share - 2016,Percentage Share - 2017,Percentage Change - 2016/2015,Percentage Change - 2017/2016
+North America,Canada,281306,317239,335439,3.5,3.6,3.34,12.8,5.7
+North America,U.S.A,1213624,1296939,1376919,15.12,14.73,13.72,6.9,6.2
+North America,Total,1494930,1614178,1712358,18.62,18.33,17.06,8,6.1
+Central and South Amercia,Argentina,9351,12308,14875,0.12,0.14,0.15,31.6,20.9
+Central and South Amercia,Brazil,20610,21289,24453,0.26,0.24,0.24,5,14.9
+Central and South Amercia,Mexico,14049,15689,18114,0.18,0.18,0.18,11.7,15.5
+Central and South Amercia,Others,26821,29444,34625,0.33,0.33,0.35,9.8,17.6
+Central and South Amercia,Total,70831,78730,92067,0.88,0.89,0.92,11.2,16.9
+Western Europe,Austria,33670,33089,31832,0.42,0.38,0.32,-1.7,-3.8
+Western Europe,Belgium,36684,37960,41902,0.46,0.43,0.42,3.5,10.4
+Western Europe,Denmark,24073,24717,26761,0.3,0.28,0.27,2.7,8.3
+Western Europe,Finland,18129,18371,20384,0.23,0.21,0.2,1.3,11
+Western Europe,France,230854,238707,249620,2.88,2,2.49,3.4,4.6
+Western Europe,Germany,248314,265928,269380,3.09,3.02,2.68,7.1,1.3
+Western Europe,Greece,8087,9048,10286,0.1,0.1,0.1,11.9,13.7
+Western Europe,Ireland,32973,36440,31293,0.41,0.41,0.38,10.5,4.3
+Western Europe,Italy,88091,95417,111915,1.1,1.08,12,8.3,17.3
+Western Europe,Netherlands,66181,71840,76652,0.82,0.82,0.76,8.6,6.7
+Western Europe,Norway,19757,20148,20882,0.25,0.23,0,2,3.6
+Western Europe,Portugal,44616,54439,66378,0.56,0.62,0.21,22,21.9
+Western Europe,Spain,65694,76342,81442,0.82,0.87,0.81,16.2,6.7
+Western Europe,Sweden,42626,43689,45851,0.53,0.5,0.46,2.5,4.9
+Western Europe,Switzerland,46151,48123,49607,0.57,0.55,0.49,4.3,3.1
+Western Europe,U.K.,867601,941883,986296,10.81,10.7,9.83,8.6,4.7
+Western Europe,Others,6702,13271,6492,0.08,0.15,0.06,98,-51.1
+Western Europe,Total,1880203,2029412,2133673,23.42,23.05,21.26,7.9,5.1
+Eastern Europe,Czech Rep.,11441,12932,11852,0.14,0.15,0.12,13,-8.4
+Eastern Europe,Hungary,7036,7961,9241,0.09,0.09,0.09,13.1,16.1
+Eastern Europe,Kazakhstan,14506,12979,15421,0.18,0.15,0.15,-10.5,18.8
+Eastern Europe,Poland,26499,25706,28674,0.33,0.29,0.29,-3,11.5
+Eastern Europe,Russian Fed.,172419,227749,278904,2.15,2.59,2.78,32.1,22.5
+Eastern Europe,Ukraine,23098,26753,25988,0.29,0.3,0.26,15.8,-2.9
+Eastern Europe,Others,76052,91922,102792,0.95,1.04,1.02,20.9,11.8
+Eastern Europe,Total,331051,406002,472872,4.12,4.61,4.71,22.6,16.5
+Africa,Egypt,19168,20864,20528,0.24,0.24,0.2,8.8,-1.6
+Africa,Kenya,46139,44783,46011,0.57,0.51,0.46,-2.9,2.7
+Africa,Mauritius,32533,34280,37706,0.41,0.39,0.38,5.4,10
+Africa,Nigeria,24292,17964,12651,0.3,0.2,0.13,-26,-29.6
+Africa,South Africa,51922,52636,57060,0.65,0.6,0.57,1.4,8.4
+Africa,Sudan,13704,17093,22762,0.17,0.19,0.23,24.7,33.2
+Africa,Tanzania,25488,23026,22261,0.32,0.26,0.22,-9.7,-3.3
+Africa,Others,80323,91518,99044,1,1.04,0.99,13.9,8.2
+Africa,Total,293569,302164,318023,3.66,3.43,3.17,2.9,5.2
+West Asia,Bahrain,14013,17382,16764,0.17,0.2,0.17,24,-3.6
+West Asia,Iraq,42660,48227,56230,0.53,0.55,0.56,13,16.6
+West Asia,Israel,50134,59231,58131,0.62,0.67,0.58,18.1,-1.9
+West Asia,Oman,103740,105705,107217,1.29,1.2,1.07,1.9,1.4
+West Asia,Saudi Arabia,63835,61605,52976,0.8,0.7,0.53,-3.5,-14
+West Asia,Turkey,25670,29545,33251,0.32,0.34,0.33,15.1,12.5
+West Asia,U.A.E.,55818,67165,67238,0.7,0.76,0.67,20.3,0.1
+West Asia,Yemen Arab Rep.,20901,19383,21695,0.26,0.22,0.22,-7.3,11.9
+West Asia,Others,40845,43599,44258,0.51,0.5,0.44,6.7,1.5
+West Asia,Total,417616,451842,457760,5.2,5.13,4.56,8.2,1.3
+South Asia,Afghanistan,114406,123330,149176,1.43,1.4,1.49,7.8,21
+South Asia,Bangladesh,1133879,1380409,2156557,14.13,15.68,21.49,21.7,56.2
+South Asia,Bhutan,19084,20940,25267,0.24,0.24,0.25,9.7,20.7
+South Asia,Iran,30774,39184,42641,0.38,0.45,0.42,27.3,8.8
+South Asia,Maldives,68907,67457,66150,0.86,0.77,0.66,-2.1,-1.9
+South Asia,Nepal,154720,161097,164018,1.93,1.83,1.63,4.1,1.8
+South Asia,Pakistan,124924,104720,44266,1.56,1.19,0.44,-16.2,-57.7
+South Asia,Sri Lanka,299513,297418,303590,3.73,3.38,3.03,-0.7,2.1
+South Asia,Total,1946207,2194555,2951665,24.25,24.93,29.41,12.8,34.5
+South East Asia,Indonesia,34933,35084,43973,0.44,0.4,0.44,0.4,25.3
+South East Asia,Malaysia,272941,301961,322126,3.4,3.43,3.21,10.6,6.7
+South East Asia,Myanmar,55341,51376,56952,0.69,0.58,0.57,-7.2,10.9
+South East Asia,Philippines,47912,52692,53963,0.6,0.6,0.54,10,2.4
+South East Asia,Singapore,152238,163688,175852,1.9,1.86,1.75,7.5,7.4
+South East Asia,Thailand,115860,119663,140087,1.44,1.36,1.4,3.3,17.1
+South East Asia,Vietnam,15341,16728,23771,0.19,0.19,0.24,9,42.1
+South East Asia,Others,5732,4877,7851,0.07,0.06,0.08,-14.9,61
+South East Asia,Total,700298,746069,824575,8.72,8.47,8.22,6.5,10.5
+East Asia,China,206322,251313,247235,2.57,2.85,2.46,21.8,-1.6
+East Asia,Japan,207415,208847,222527,2.58,2.37,2.22,0.7,6.6
+East Asia,Rep.of Korea,102993,111076,142383,1.28,1.26,1.42,7.8,28.2
+East Asia,Taiwan,36349,42327,47043,0.45,0.48,0.47,16.4,11.1
+East Asia,Others,2691,4000,4107,0.03,0.05,0.04,48.6,2.7
+East Asia,Total,555770,617563,663295,6.92,7.01,6.61,11.1,7.4
+Australasia,Australia,263101,293625,324243,3.28,3.33,3.23,11.6,10.4
+Australasia,New Zealand,45171,50917,56597,0.56,0.58,0.56,12.7,11.2
+Australasia,Others,3829,4366,5219,0.05,0.05,0.05,14,19.5
+Australasia,Total,312101,348908,386059,3.89,3.96,3.85,11.8,10.6
+Not Classified elsewhere,Not Classified elsewhere,24557,14988,23456,0.31,0.17,0.23,-39,56.5
+Grand Total,Grand Total,8027133,8804411,10035803,100,100,100,9.7,14
